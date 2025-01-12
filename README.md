@@ -47,3 +47,6 @@
 ![WD](WD.png)
 [Сайт](https://raevmaksim.github.io/WD----------------/)  |  [Репозиторий](https://github.com/raevmaksim/WD----------------)
 ***
+![site_figma](site_figma.png)
+[Сайт](https://raevmaksim.github.io/site_figma/)  |  [Репозиторий](https://github.com/raevmaksim/site_figma)
+***
