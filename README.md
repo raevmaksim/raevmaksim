@@ -14,3 +14,6 @@
 ![OWLLABS](OWLLABS.png)
 [Сайт](https://raevmaksim.github.io/OWLLABS/)  |  [Репозиторий](https://github.com/raevmaksim/OWLLABS)
 ***
+![DenisNovik](DenisNovik_f_screen_desktop.jpg)
+[Сайт](https://raevmaksim.github.io/DenisNovik/)  |  [Репозиторий](https://github.com/raevmaksim/DenisNovik)
+***
