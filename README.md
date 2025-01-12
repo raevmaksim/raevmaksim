@@ -44,3 +44,6 @@
 ![Konstruct-template](Konstruct-template.png)
 [Сайт](https://raevmaksim.github.io/konstruct-template/)  |  [Репозиторий](https://github.com/raevmaksim/konstruct-template)
 ***
+![WD](WD.png)
+[Сайт](https://raevmaksim.github.io/WD----------------/)  |  [Репозиторий](https://github.com/raevmaksim/WD----------------)
+***
