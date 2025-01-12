@@ -5,8 +5,11 @@
 ![ТехноПрофи](tehnoprofi.png)
 [Сайт](https://raevmaksim.github.io/TehnoProfi/)  |  [Репозиторий](https://github.com/raevmaksim/TehnoProfi)
 ***
+![EcoTest](EcoTest.png)
+[Мобильное приложение](https://raevmaksim.github.io/vueApp/)  |  [Репозиторий](https://github.com/raevmaksim/Eco-test)
+***
 ![WarCraft](wc.png)
-[Сайт](https://raevmaksim.github.io/vueApp/)  |  [Репозиторий](https://github.com/raevmaksim/vueApp)
+[Мобильное приложение](https://raevmaksim.github.io/Eco-test/)  |  [Репозиторий](https://github.com/raevmaksim/vueApp)
 ***
 ![Aron](aron_screen.jpg)
 [Сайт](https://raevmaksim.github.io/Aron/)  |  [Репозиторий](https://github.com/raevmaksim/Aron)
