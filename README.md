@@ -35,3 +35,6 @@
 ![ArchiWeb](ArchiWeb_f_screen.jpg)
 [Сайт](https://raevmaksim.github.io/Archi-Web/)  |  [Репозиторий](https://github.com/raevmaksim/Archi-Web)
 ***
+![Britlex](Britlex.png)
+[Сайт](https://raevmaksim.github.io/Britlex/)  |  [Репозиторий](https://github.com/raevmaksim/Britlex)
+***
