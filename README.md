@@ -6,5 +6,5 @@
 [Сайт](https://raevmaksim.github.io/TehnoProfi/)  |  [Репозиторий](https://github.com/raevmaksim/TehnoProfi)
 ***
 ![WarCraft](wc.png)
-[Сайт](https://github.com/raevmaksim/vueApp)  |  [Репозиторий](https://raevmaksim.github.io/vueApp/)
+[Сайт](https://raevmaksim.github.io/vueApp/)  |  [Репозиторий](https://github.com/raevmaksim/vueApp)
 ***
