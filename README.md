@@ -20,3 +20,6 @@
 ![DigitalMarketingAgency](Digital_Marketing_Agency.png)
 [Сайт](https://raevmaksim.github.io/DigitalMarketingAgency/)  |  [Репозиторий](https://github.com/raevmaksim/DigitalMarketingAgency)
 ***
+![Dolly](Dolly.png)
+[Сайт](https://raevmaksim.github.io/Dolly/)  |  [Репозиторий](https://github.com/raevmaksim/Dolly)
+***
