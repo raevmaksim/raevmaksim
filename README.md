@@ -23,3 +23,6 @@
 ![Dolly](Dolly.png)
 [Сайт](https://raevmaksim.github.io/Dolly/)  |  [Репозиторий](https://github.com/raevmaksim/Dolly)
 ***
+![Pixso](pixso.png)
+[Сайт](https://raevmaksim.github.io/site_pxso/)  |  [Репозиторий](https://github.com/raevmaksim/site_pxso)
+***
